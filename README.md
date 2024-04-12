@@ -2,17 +2,6 @@
 This is a beginner's GOlang project.
 I have written a program using which you can order food in a restaurant.
 
-# Objective 
-* Learn Go lang and build project as a beginner.
-* Enhance Go skills and learnings by building project. 
-
-# Prerequisite
-You should have basic knowledge of Go language like data types, if-else statement, loops, switch-statement, slices, maps and structures.
-If you don't know anything about Go language, then do checkout the [resoruces section](https://github.com/BhairaviSanskriti/Order-Food/edit/main/README.md#resources) and you'll be good to go.
-
-# Resources 
-1. [Go Beginner Project Tutorial - Learn Golang](https://www.youtube.com/watch?v=LHhsNa_Kgns)
-2. [Golang Tutorial for Beginners](https://www.youtube.com/watch?v=yyUHQIec83I)
 
 # Overview
 Want to order food!? Well, you have come to the right place(not exactly :P).
